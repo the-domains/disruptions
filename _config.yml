@@ -1,0 +1,14 @@
+layout_spectrum: 0.4402786
+color:
+  saturation: 0.8377193
+  brandStrength: 0.4410387
+  lightness: 0.6810777
+  rhythmicContrast: 0.7437344
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+typography_spectrum: 0.355462
+name: Disruptions
