@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Disruptions]]></title>
+        <description><![CDATA[Disruptions]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Apr 2016 03:43:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[R3 Reveals 8 Areas of Focus for Blockchain Bank Trials - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>R3 Reveals 8 Areas of Focus for Blockchain Bank Trials - CoinDesk</h1><p>A consortium of over 40 financial institutions around the world is currently working on at least eight different proofs-of-concept (PoCs) to show how distributed ledgers can be used to streamline a wide range of transactions on Wall Street - and make them easier to regulate.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87ab6fa23c0fba3790dc6e9272df8fd609399049.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/r3-reveals-8-areas-of-focus-for-blockchain-bank-trials/</link>
+            <guid isPermaLink="false">04944839-55f9-4e28-a05d-de15ffab0b9c</guid>
+            <pubDate>Sun, 24 Apr 2016 03:43:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
